@@ -44,6 +44,11 @@ ________________________________________________________________________________
 <h4>Docker Compose по умолчанию ищет файл с именем compose.yaml или docker-compose.yaml если в наличии оба файла приоритет у compose.yaml</h4>
 
 <img width="1351" height="394" alt="image" src="https://github.com/user-attachments/assets/09fd515d-b4bb-4d88-818a-d6fb3bd288ec" />
+...
+<img width="860" height="245" alt="image" src="https://github.com/user-attachments/assets/b8b17ea6-3680-4b11-a19b-755285135171" />
+...
+<img width="869" height="972" alt="2026-05-07_16-37-37" src="https://github.com/user-attachments/assets/4735ffb1-b2e7-4d65-84bc-f130de236929" />
+
 
 
 
