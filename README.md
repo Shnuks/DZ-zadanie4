@@ -8,5 +8,9 @@
 
 <img width="527" height="138" alt="image" src="https://github.com/user-attachments/assets/67a8912c-75f3-4cbd-8475-59e09d87c6f8" />
 
+<h4> Ссылка на dockerhub </h4>
+<pre> https://hub.docker.com/r/shnuk/custom-nginx </pre>
 
-https://hub.docker.com/r/shnuk/custom-nginx
+<h1>Задача 2</h1>
+
+<img width="1844" height="278" alt="image" src="https://github.com/user-attachments/assets/ed7ea24d-3da7-45e2-ab33-da24fac36c7a" />
