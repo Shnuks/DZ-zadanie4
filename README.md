@@ -12,5 +12,13 @@
 <pre> https://hub.docker.com/r/shnuk/custom-nginx </pre>
 
 <h1>Задача 2</h1>
-
+<h4> Ответ </h4>
 <img width="1844" height="278" alt="image" src="https://github.com/user-attachments/assets/ed7ea24d-3da7-45e2-ab33-da24fac36c7a" />
+
+<h1>Задача 3</h1>
+
+<img width="1077" height="177" alt="image" src="https://github.com/user-attachments/assets/47a0a245-ee08-42a4-a013-60a38c21b833" />
+
+<h4>В режиме docker attach основной процесс Nginx, поэтому при нажатии Ctrl-C он получает сигнал прервать процесс и т.к. контейнер не имеет больше процессов, то он завершает работу</h4>
+
+
