@@ -20,5 +20,20 @@
 <img width="1077" height="177" alt="image" src="https://github.com/user-attachments/assets/47a0a245-ee08-42a4-a013-60a38c21b833" />
 
 <h4>В режиме docker attach основной процесс Nginx, поэтому при нажатии Ctrl-C он получает сигнал прервать процесс и т.к. контейнер не имеет больше процессов, то он завершает работу</h4>
+<img width="739" height="651" alt="image" src="https://github.com/user-attachments/assets/f9377eaa-1afb-48a8-bf3d-55008a5f4471" />
+__________________________________________________________________________________________________________
+
+<img width="791" height="393" alt="image" src="https://github.com/user-attachments/assets/29eb3fda-cd9d-4964-8ccc-105b38b937c3" />
+
+<h4>Ошибка возникает из-за того что Nginx внутри контейнера стал слушать 81 порт, а не 80</h4>
+
+
+<h1>Задача 4</h1>
+
+<img width="923" height="262" alt="image" src="https://github.com/user-attachments/assets/63b03b37-ec25-4854-8213-4f54050c7b2d" />
+.
+.
+.
+<img width="726" height="213" alt="image" src="https://github.com/user-attachments/assets/7a13895d-cbf8-4c29-aeaa-d2875986d4c4" />
 
 
