@@ -37,3 +37,31 @@ ________________________________________________________________________________
 <img width="726" height="213" alt="image" src="https://github.com/user-attachments/assets/7a13895d-cbf8-4c29-aeaa-d2875986d4c4" />
 
 
+<h1>Задача 5</h1>
+
+<img width="1017" height="494" alt="image" src="https://github.com/user-attachments/assets/f2128fbc-ff3d-4df0-b899-66847fd6b2d9" />
+
+<h4>Docker Compose по умолчанию ищет файл с именем compose.yaml или docker-compose.yaml если в наличии оба файла приоритет у compose.yaml</h4>
+
+<img width="1351" height="394" alt="image" src="https://github.com/user-attachments/assets/09fd515d-b4bb-4d88-818a-d6fb3bd288ec" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
